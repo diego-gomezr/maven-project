@@ -18,7 +18,7 @@
 		<derby.version>10.14.1.0</derby.version>
 		<activemq.version>5.15.3</activemq.version>
 		<mule.tools.version>1.2</mule.tools.version>
-		<uid>dgomezr-mule</uid>
+		<uid>dgomezr-advanced</uid>
 		<pwd>AdvancedTraining1</pwd>
 		
 	</properties>
